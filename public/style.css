@@ -1,0 +1,37 @@
+html{
+    background-color: black;
+    color: antiquewhite;
+    font-family: roboto, serif;
+}
+h1{
+    text-transform: uppercase;
+}
+h2{
+    text-transform: uppercase;
+}
+.movies{
+    color: aquamarine;
+}
+#juju{
+    text-transform: uppercase;
+}
+#slime{
+    text-transform: uppercase;
+}
+#hero{
+    text-transform: uppercase;
+}
+.birthday{
+    color: aquamarine;   
+}
+.about{
+    color: aquamarine;
+}
+.contact{
+    color: aquamarine;
+}
+img{
+    border: 5px antiquewhite solid;
+    margin-right: 50px;
+
+}
